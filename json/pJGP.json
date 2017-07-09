@@ -2192,7 +2192,7 @@
       "rulings": [
         {
           "date": "2011-09-22",
-          "text": "The two cards are exiled as the cost of Grim Lavamancer's ability is paid. Players can't respond to the paying of costs by trying to move those cards to another zone."
+          "text": "The two cards are exiled as the cost of Grim Lavamancer’s ability is paid. Players can’t respond to the paying of costs by trying to move those cards to another zone."
         }
       ],
       "source": "Judge reward at World Championships in Yokohama.",
@@ -3605,15 +3605,15 @@
       "rulings": [
         {
           "date": "2004-10-04",
-          "text": "An activated ability has a \"Cost: Effect\" format. Look for the colon. A triggered ability starts with \"when\", \"whenever\", or \"at\"."
+          "text": "An activated ability has a “Cost: Effect” format. Look for the colon. A triggered ability starts with “when”, “whenever”, or “at”."
         },
         {
           "date": "2004-10-04",
-          "text": "Turn-based actions and special actions like the normal card draw, combat damage, or turning a face-down creature face up can't be targeted."
+          "text": "Turn-based actions and special actions like the normal card draw, combat damage, or turning a face-down creature face up can’t be targeted."
         },
         {
           "date": "2004-10-04",
-          "text": "It can target delayed triggered abilities. For example, a card that says \"Whenever a player cycles a card, you may exile target creature. If you do, return that creature to the battlefield at the beginning of the end step.\" triggers when a player cycles a card and creates a delayed trigger that happens at the beginning of the end step. You can choose to target the \"at the beginning of the end step\" trigger when it is placed on the stack at end of turn."
+          "text": "It can target delayed triggered abilities. For example, a card that says “Whenever a player cycles a card, you may exile target creature. If you do, return that creature to the battlefield at the beginning of the end step.” triggers when a player cycles a card and creates a delayed trigger that happens at the beginning of the end step. You can choose to target the “at the beginning of the end step” trigger when it is placed on the stack at end of turn."
         }
       ],
       "source": "Judge reward",
@@ -9508,23 +9508,23 @@
       "rulings": [
         {
           "date": "2016-06-08",
-          "text": "Dualcaster Mage's triggered ability can target (and copy) any instant or sorcery spell, not just one with targets. It doesn't matter who controls it."
+          "text": "Dualcaster Mage’s triggered ability can target (and copy) any instant or sorcery spell, not just one with targets. It doesn’t matter who controls it."
         },
         {
           "date": "2016-06-08",
-          "text": "As Dualcaster Mage's triggered ability resolves, it creates a copy of a spell on the stack. The copy isn't cast, so abilities that trigger when a player casts a spell won't trigger."
+          "text": "As Dualcaster Mage’s triggered ability resolves, it creates a copy of a spell on the stack. The copy isn’t cast, so abilities that trigger when a player casts a spell won’t trigger."
         },
         {
           "date": "2016-06-08",
-          "text": "The copy will have the same targets as the spell it's copying unless you choose new ones. You may change any number of the targets, including all of them or none of them. If, for one of the targets, you can't choose a new legal target, then it remains unchanged (even if the current target is illegal)."
+          "text": "The copy will have the same targets as the spell it’s copying unless you choose new ones. You may change any number of the targets, including all of them or none of them. If, for one of the targets, you can’t choose a new legal target, then it remains unchanged (even if the current target is illegal)."
         },
         {
           "date": "2016-06-08",
-          "text": "You can't choose to pay any additional costs for the copy. However, effects based on any additional or alternative costs paid for the targeted spell are copied as though those same costs were paid for the copy."
+          "text": "You can’t choose to pay any additional costs for the copy. However, effects based on any additional or alternative costs paid for the targeted spell are copied as though those same costs were paid for the copy."
         },
         {
           "date": "2016-06-08",
-          "text": "If the spell is modal (that is, it says \"Choose one —\" or the like), the copy will have the same mode. You can't choose a different one."
+          "text": "If the spell is modal (that is, it says “Choose one —” or the like), the copy will have the same mode. You can’t choose a different one."
         },
         {
           "date": "2016-06-08",
@@ -9532,7 +9532,7 @@
         },
         {
           "date": "2016-06-08",
-          "text": "If the copy says that it affects \"you,\" it affects the controller of the copy, not the controller of the original spell. Similarly, if the copy says that it affects an \"opponent,\" it affects an opponent of the copy's controller, not an opponent of the original spell's controller."
+          "text": "If the copy says that it affects “you,” it affects the controller of the copy, not the controller of the original spell. Similarly, if the copy says that it affects an “opponent,” it affects an opponent of the copy’s controller, not an opponent of the original spell’s controller."
         }
       ],
       "source": "Judge reward",

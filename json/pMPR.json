@@ -3083,7 +3083,7 @@
         },
         {
           "date": "2013-06-07",
-          "text": "Look at both chosen modes to determine how many targets Cryptic Command has, if any. If it has at least one target, and all its targets are illegal when it tries to resolve, then it will be countered and none of its effects will happen. For example, if you choose the second and fourth modes, and the permanent is an illegal target when Cryptic Command tries to resolve, you won't draw a card."
+          "text": "Look at both chosen modes to determine how many targets Cryptic Command has, if any. If it has at least one target, and all its targets are illegal when it tries to resolve, then it will be countered and none of its effects will happen. For example, if you choose the second and fourth modes, and the permanent is an illegal target when Cryptic Command tries to resolve, you won’t draw a card."
         }
       ],
       "source": "Magic Player Rewards program reward",
@@ -4098,6 +4098,10 @@
       "imageName": "cancel",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
         {
           "format": "Commander",
           "legality": "Legal"

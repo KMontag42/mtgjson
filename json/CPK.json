@@ -99,7 +99,7 @@
       "rulings": [
         {
           "date": "2013-09-15",
-          "text": "You can activate Prognostic Sphinx's ability even if it's already tapped."
+          "text": "You can activate Prognostic Sphinx’s ability even if it’s already tapped."
         },
         {
           "date": "2013-09-15",
@@ -111,11 +111,11 @@
         },
         {
           "date": "2013-09-15",
-          "text": "You perform the actions stated on a card in sequence. For some spells and abilities, that means you'll scry last. For others, that means you'll scry and then perform other actions."
+          "text": "You perform the actions stated on a card in sequence. For some spells and abilities, that means you’ll scry last. For others, that means you’ll scry and then perform other actions."
         },
         {
           "date": "2013-09-15",
-          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it will be countered and none of its effects will happen. You won't scry."
+          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability’s targets are illegal when it tries to resolve, it will be countered and none of its effects will happen. You won’t scry."
         }
       ],
       "source": "CP1-Magic 2015",

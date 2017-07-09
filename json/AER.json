@@ -24113,6 +24113,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"
         },
@@ -24666,6 +24670,10 @@
       "imageName": "submerged boneyard",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
         {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"

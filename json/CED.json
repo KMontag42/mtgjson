@@ -9167,6 +9167,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },

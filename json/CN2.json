@@ -13312,6 +13312,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -16839,6 +16843,10 @@
       "imageName": "evolving wilds",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
         {
           "format": "Battle for Zendikar Block",
           "legality": "Legal"

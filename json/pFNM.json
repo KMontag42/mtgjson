@@ -16493,6 +16493,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -16537,7 +16541,7 @@
       "rulings": [
         {
           "date": "2017-04-18",
-          "text": "Magma Spray's replacement effect will exile the target creature if it would die this turn for any reason, not just due to lethal damage. It applies to the target creature even if Magma Spray deals no damage to it (due to a prevention effect) or Magma Spray deals damage to a different creature (due to a redirection effect)."
+          "text": "Magma Spray’s replacement effect will exile the target creature if it would die this turn for any reason, not just due to lethal damage. It applies to the target creature even if Magma Spray deals no damage to it (due to a prevention effect) or Magma Spray deals damage to a different creature (due to a redirection effect)."
         }
       ],
       "source": "Friday Night Magic prize",

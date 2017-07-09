@@ -5610,6 +5610,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
           "format": "Time Spiral Block",
           "legality": "Legal"
         },

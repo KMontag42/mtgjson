@@ -3585,11 +3585,11 @@
       "rulings": [
         {
           "date": "2015-02-25",
-          "text": "If you cast a creature spell that enters the battlefield as a copy of Deathbringer Regent, the enters-the-battlefield ability will trigger (assuming the \"five or more other creatures\" requirement is also met)."
+          "text": "If you cast a creature spell that enters the battlefield as a copy of Deathbringer Regent, the enters-the-battlefield ability will trigger (assuming the “five or more other creatures” requirement is also met)."
         },
         {
           "date": "2015-02-25",
-          "text": "Deathbringer Regent's last ability destroys all creatures except Deathbringer Regent, including the five other creatures required for the ability to have an effect."
+          "text": "Deathbringer Regent’s last ability destroys all creatures except Deathbringer Regent, including the five other creatures required for the ability to have an effect."
         }
       ],
       "source": "Dragons of Tarkir Launch Party participation bonus",

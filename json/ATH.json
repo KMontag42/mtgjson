@@ -1157,6 +1157,7 @@
         "KLD",
         "C16",
         "PCA",
+        "DDS",
         "CMA",
         "E01",
         "HOU"
@@ -1339,6 +1340,10 @@
       "imageName": "giant spider",
       "layout": "normal",
       "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
         {
           "format": "Commander",
           "legality": "Legal"
@@ -3359,6 +3364,7 @@
         "KLD",
         "C16",
         "PCA",
+        "DDS",
         "CMA",
         "E01",
         "HOU"

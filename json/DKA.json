@@ -10870,6 +10870,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
           "format": "Tempest Block",
           "legality": "Legal"
         },

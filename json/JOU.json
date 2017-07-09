@@ -12341,6 +12341,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
           "format": "Theros Block",
           "legality": "Legal"
         },

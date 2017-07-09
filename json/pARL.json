@@ -5772,6 +5772,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -5820,11 +5824,11 @@
       "rulings": [
         {
           "date": "2010-08-15",
-          "text": "The sacrificed creature's last known existence on the battlefield is checked to determine its power."
+          "text": "The sacrificed creature’s last known existence on the battlefield is checked to determine its power."
         },
         {
           "date": "2010-08-15",
-          "text": "If you sacrifice an attacking or blocking creature during the declare blockers step, it won't deal combat damage. If you wait until the combat damage step, but that creature is dealt lethal damage, it'll be destroyed before you get a chance to sacrifice it."
+          "text": "If you sacrifice an attacking or blocking creature during the declare blockers step, it won’t deal combat damage. If you wait until the combat damage step, but that creature is dealt lethal damage, it’ll be destroyed before you get a chance to sacrifice it."
         },
         {
           "date": "2013-04-15",

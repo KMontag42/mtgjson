@@ -284,6 +284,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -846,6 +850,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -877,7 +885,7 @@
       "rulings": [
         {
           "date": "2009-10-01",
-          "text": "A \"creature spell\" is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells."
+          "text": "A “creature spell” is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells."
         }
       ],
       "text": "Counter target creature spell.",
@@ -5332,7 +5340,8 @@
         "10E",
         "p15A",
         "DPA",
-        "DDL"
+        "DDL",
+        "DDS"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -7213,6 +7222,10 @@
       "layout": "normal",
       "legalities": [
         {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
           "format": "Commander",
           "legality": "Legal"
         },
@@ -8481,7 +8494,8 @@
         "TPR",
         "MM2",
         "C15",
-        "C16"
+        "C16",
+        "DDS"
       ],
       "rarity": "Common",
       "rulings": [
@@ -8956,7 +8970,8 @@
       "power": "4",
       "printings": [
         "EVE",
-        "DPA"
+        "DPA",
+        "DDS"
       ],
       "rarity": "Rare",
       "subtypes": [
@@ -9639,7 +9654,8 @@
         "M10",
         "H09",
         "DPA",
-        "TPR"
+        "TPR",
+        "DDS"
       ],
       "rarity": "Rare",
       "rulings": [
@@ -10675,6 +10691,7 @@
         "KLD",
         "C16",
         "PCA",
+        "DDS",
         "CMA",
         "E01",
         "HOU"
@@ -11045,6 +11062,7 @@
         "KLD",
         "C16",
         "PCA",
+        "DDS",
         "CMA",
         "E01",
         "HOU"
@@ -11415,6 +11433,7 @@
         "KLD",
         "C16",
         "PCA",
+        "DDS",
         "CMA",
         "E01",
         "HOU"
@@ -11785,6 +11804,7 @@
         "KLD",
         "C16",
         "PCA",
+        "DDS",
         "CMA",
         "E01",
         "HOU"
@@ -13665,6 +13685,7 @@
         "KLD",
         "C16",
         "PCA",
+        "DDS",
         "CMA",
         "E01",
         "HOU"
@@ -14041,6 +14062,7 @@
         "KLD",
         "C16",
         "PCA",
+        "DDS",
         "CMA",
         "E01",
         "HOU"
@@ -14417,6 +14439,7 @@
         "KLD",
         "C16",
         "PCA",
+        "DDS",
         "CMA",
         "E01",
         "HOU"
@@ -14793,6 +14816,7 @@
         "KLD",
         "C16",
         "PCA",
+        "DDS",
         "CMA",
         "E01",
         "HOU"
@@ -15167,6 +15191,7 @@
         "KLD",
         "C16",
         "PCA",
+        "DDS",
         "CMA",
         "E01",
         "HOU"
@@ -15541,6 +15566,7 @@
         "KLD",
         "C16",
         "PCA",
+        "DDS",
         "CMA",
         "E01",
         "HOU"
@@ -15915,6 +15941,7 @@
         "KLD",
         "C16",
         "PCA",
+        "DDS",
         "CMA",
         "E01",
         "HOU"
@@ -16289,6 +16316,7 @@
         "KLD",
         "C16",
         "PCA",
+        "DDS",
         "CMA",
         "E01",
         "HOU"

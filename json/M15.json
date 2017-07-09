@@ -11453,6 +11453,10 @@
           "legality": "Legal"
         },
         {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
           "format": "Tempest Block",
           "legality": "Legal"
         },
@@ -36766,6 +36770,10 @@
         },
         {
           "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
           "legality": "Legal"
         },
         {

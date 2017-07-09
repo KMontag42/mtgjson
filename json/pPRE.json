@@ -3842,7 +3842,7 @@
       "rulings": [
         {
           "date": "2009-10-01",
-          "text": "The landfall ability triggers whenever a land enters the battlefield under your control for any reason. It triggers whenever you play a land, as well as whenever a spell or ability (such as Rampant Growth) causes you to put a land onto the battlefield under your control. It will even trigger when a spell or ability causes another player to put a land onto the battlefield under your control (as can happen with Yavimaya Dryad's ability, for example)."
+          "text": "The landfall ability triggers whenever a land enters the battlefield under your control for any reason. It triggers whenever you play a land, as well as whenever a spell or ability (such as Rampant Growth) causes you to put a land onto the battlefield under your control. It will even trigger when a spell or ability causes another player to put a land onto the battlefield under your control (as can happen with Yavimaya Dryad’s ability, for example)."
         },
         {
           "date": "2009-10-01",
@@ -4189,7 +4189,7 @@
         },
         {
           "date": "2010-08-15",
-          "text": "If a card in your graveyard has no mana symbols in its upper right corner (because it's a land card, for example), its converted mana cost is 0."
+          "text": "If a card in your graveyard has no mana symbols in its upper right corner (because it’s a land card, for example), its converted mana cost is 0."
         }
       ],
       "source": "Magic 2011 Prerelease participation bonus",
@@ -14171,11 +14171,11 @@
       "rulings": [
         {
           "date": "2014-11-24",
-          "text": "The opponent chooses which creatures to spare, if any, as the ability resolves. This choice doesn't target the creatures."
+          "text": "The opponent chooses which creatures to spare, if any, as the ability resolves. This choice doesn’t target the creatures."
         },
         {
           "date": "2014-11-24",
-          "text": "The opponent may choose to spare one or no creatures. If the player doesn't choose any creatures, he or she will sacrifice all creatures he or she controls."
+          "text": "The opponent may choose to spare one or no creatures. If the player doesn’t choose any creatures, he or she will sacrifice all creatures he or she controls."
         }
       ],
       "source": "Fate Reforged Sultai Prerelease participation bonus",
@@ -18657,11 +18657,11 @@
       "rulings": [
         {
           "date": "2015-02-25",
-          "text": "If you cast a creature spell that enters the battlefield as a copy of Deathbringer Regent, the enters-the-battlefield ability will trigger (assuming the \"five or more other creatures\" requirement is also met)."
+          "text": "If you cast a creature spell that enters the battlefield as a copy of Deathbringer Regent, the enters-the-battlefield ability will trigger (assuming the “five or more other creatures” requirement is also met)."
         },
         {
           "date": "2015-02-25",
-          "text": "Deathbringer Regent's last ability destroys all creatures except Deathbringer Regent, including the five other creatures required for the ability to have an effect."
+          "text": "Deathbringer Regent’s last ability destroys all creatures except Deathbringer Regent, including the five other creatures required for the ability to have an effect."
         }
       ],
       "source": "Dragons of Tarkir Silumgar Prerelease participation bonus",
@@ -19891,7 +19891,7 @@
       "rulings": [
         {
           "date": "2015-02-25",
-          "text": "Icefall Regent's triggered ability can target any creature controlled by an opponent, including one that is already tapped. In that case, the creature stays tapped and won't untap during its controller's untap step."
+          "text": "Icefall Regent’s triggered ability can target any creature controlled by an opponent, including one that is already tapped. In that case, the creature stays tapped and won’t untap during its controller’s untap step."
         },
         {
           "date": "2015-02-25",
@@ -19903,7 +19903,7 @@
         },
         {
           "date": "2015-02-25",
-          "text": "Icefall Regent's last ability affects all spells cast by your opponents that target it, including Aura spells and spells with multiple targets. It doesn't affect abilities."
+          "text": "Icefall Regent’s last ability affects all spells cast by your opponents that target it, including Aura spells and spells with multiple targets. It doesn’t affect abilities."
         }
       ],
       "source": "Dragons of Tarkir Ojutai Prerelease participation bonus",
@@ -31570,7 +31570,7 @@
         },
         {
           "date": "2015-08-25",
-          "text": "If the ability has an additional or replacement effect that depends on the land having a certain basic land type, the ability will check that land's type as the ability resolves. If, at that time, the land that entered the battlefield is no longer on the battlefield, use its types when it left the battlefield to determine what happens."
+          "text": "If the ability has an additional or replacement effect that depends on the land having a certain basic land type, the ability will check that land’s type as the ability resolves. If, at that time, the land that entered the battlefield is no longer on the battlefield, use its types when it left the battlefield to determine what happens."
         }
       ],
       "source": "Battle for Zendikar Prerelease participation bonus",
